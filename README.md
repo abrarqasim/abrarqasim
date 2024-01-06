@@ -29,7 +29,7 @@ Proficient in Python, Node.js, and Ruby, Alex designs robust architectures integ
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Payment Reminder App    
+- 🔭 I’m currently working on a <a href="https://cloud.google.com/storage" target="_blank">GCS</a> Manager (React|typescript and Nodejs)    
   
 
 - 🌱 I’m currently learning Go   
