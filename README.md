@@ -11,7 +11,7 @@
 ### Glad to see you here!  
 A dynamic Full Stack Web Developer, adeptly navigates cutting-edge technologies, crafting immersive user experiences. With expertise in front-end and back-end paradigms, they engineer seamless interactions between clients and servers, employing HTML5, CSS3, JavaScript, React, and Angular.
 
-Proficient in Python, Node.js, and Ruby, Alex designs robust architectures integrated with databases like MySQL, PostgreSQL, and MongoDB. Security-conscious, they safeguard data with unwavering resolve. A fervent proponent of agile methodologies, Alex excels in team collaboration, surpassing project milestones with exceptional communication. Continuously at the vanguard of web development trends, they shape the digital realm with creativity and ingenuity.  
+Proficient in Python, Node.js, and Ruby, Qasim designs robust architectures integrated with databases like MySQL, PostgreSQL, and MongoDB. Security-conscious, they safeguard data with unwavering resolve. A fervent proponent of agile methodologies, Qasim excels in team collaboration, surpassing project milestones with exceptional communication. Continuously at the vanguard of web development trends, they shape the digital realm with creativity and ingenuity.  
   
 
 <br/>  
